@@ -1,6 +1,6 @@
 
 import {Component} from '@angular/core';
-import { ProductListComponent } from 'src/app/products-list.component';
+import { ProductListComponent } from './Products/products-list.component';
 
 
 @Component ({
